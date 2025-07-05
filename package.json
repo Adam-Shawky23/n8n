@@ -1,9 +1,6 @@
 {
   "name": "n8n-deploy",
   "version": "1.0.0",
-  "engines": {
-    "node": "18.x"
-  }
   "description": "n8n - Open-source workflow automation tool",
   "main": "index.js",
   "scripts": {
@@ -15,7 +12,7 @@
     "n8n": "^0.194.0"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": "18.x"
   },
   "author": "n8n.io",
   "license": "MIT"
